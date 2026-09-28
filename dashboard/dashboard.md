@@ -11,4 +11,4 @@ As a registered user, I want to view a dashboard with an overview of my recent a
 - Allow users to easily track their recent activities.
 
 ## Priority
-Normal
+Medium
