@@ -12,3 +12,6 @@ As a registered user, I want to view a dashboard with an overview of my recent a
 
 ## Priority
 Medium
+
+## Usage
+Users can use the dashboard to quickly review their recent activities and important information.
