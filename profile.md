@@ -6,3 +6,8 @@
 
 ## Change avatar
 -The user can upload a new avatar image from their device.
+
+## Validation
+- Email must have a valid format.
+- Avatar must be JPG or PNG and not larger than 2MB.
+- Show an error message when the input is invalid.
