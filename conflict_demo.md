@@ -6,7 +6,7 @@ This file tracks the current project configuration.
 ## Configuration
 
 - **Project Name:** Git Workflow Assignment
-- **Version:** 1.0
+- **Version:** 3.0
 - **Status:** Active
 
 ## Notes
